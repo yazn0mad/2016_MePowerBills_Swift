@@ -1,0 +1,252 @@
+/* Class = "UILabel"; text = "Total Balance"; ObjectID = "0Rv-Pt-v6N"; */
+"0Rv-Pt-v6N.text" = "合計";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "1SS-bI-Own"; */
+"1SS-bI-Own.normalTitle" = "入力";
+
+/* Class = "UILabel"; text = "Usage"; ObjectID = "2Y0-GV-su3"; */
+"2Y0-GV-su3.text" = "使用量";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "3YW-Yn-0yZ"; */
+"3YW-Yn-0yZ.normalTitle" = "選択";
+
+/* Class = "UIBarButtonItem"; title = "< Back"; ObjectID = "3eU-wF-xOY"; */
+"3eU-wF-xOY.title" = "＜ 戻る";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4VP-h3-X2k"; */
+"4VP-h3-X2k.text" = "Label";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "4qA-qF-c2S"; */
+"4qA-qF-c2S.text" = "設定";
+
+/* Class = "UITextField"; placeholder = "0000.0"; ObjectID = "6VG-Od-Qtn"; */
+"6VG-Od-Qtn.placeholder" = "0000.0";
+
+/* Class = "UILabel"; text = "DateStarted"; ObjectID = "7Nv-fl-mmC"; */
+"7Nv-fl-mmC.text" = "検針開始日";
+
+/* Class = "UILabel"; text = "Detail Setup"; ObjectID = "7f5-Rf-cVO"; */
+"7f5-Rf-cVO.text" = "詳細設定";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7qw-rh-dq6"; */
+"7qw-rh-dq6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Lighting"; ObjectID = "7wk-kH-KJp"; */
+"7wk-kH-KJp.text" = "従量電灯Ｂ";
+
+/* Class = "UILabel"; text = "total balance"; ObjectID = "8aa-Ms-sRm"; */
+"8aa-Ms-sRm.text" = "total balance";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "9bn-Yh-A9W"; */
+"9bn-Yh-A9W.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "9gp-5E-2RX"; */
+"9gp-5E-2RX.normalTitle" = "リセット";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "65T-Db-ZIf"; */
+"65T-Db-ZIf.text" = "-";
+
+/* Class = "UILabel"; text = "Power Factor"; ObjectID = "68P-01-78Y"; */
+"68P-01-78Y.text" = "力率";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "AIG-HD-yT4"; */
+"AIG-HD-yT4.text" = "日付";
+
+/* Class = "UIButton"; normalTitle = "cancel"; ObjectID = "BPt-HA-tc1"; */
+"BPt-HA-tc1.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CTA-Ji-4Z8"; */
+"CTA-Ji-4Z8.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CfO-0f-0Le"; */
+"CfO-0f-0Le.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Daily Average: "; ObjectID = "Dt4-3y-Ant"; */
+"Dt4-3y-Ant.text" = "日当平均：";
+
+/* Class = "UILabel"; text = "再エネ発電賦課金単価 (Levy)"; ObjectID = "FTB-2k-jZa"; */
+"FTB-2k-jZa.text" = "再エネ発電賦課金単価";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "Foo-yq-GOZ"; */
+"Foo-yq-GOZ.text" = "今日";
+
+/* Class = "UILabel"; text = "Detail Setup"; ObjectID = "HEw-OZ-qvl"; */
+"HEw-OZ-qvl.text" = "詳細設定";
+
+/* Class = "UILabel"; text = "total balance"; ObjectID = "HQV-zO-EEN"; */
+"HQV-zO-EEN.text" = "total balance";
+
+/* Class = "UITextField"; placeholder = "0000.0"; ObjectID = "I7A-lR-u6F"; */
+"I7A-lR-u6F.placeholder" = "0000.0";
+
+/* Class = "UILabel"; text = "Start date"; ObjectID = "IRD-I8-0Nh"; */
+"IRD-I8-0Nh.text" = "検針開始日";
+
+/* Class = "UILabel"; text = "total kwh"; ObjectID = "L8x-tD-l7N"; */
+"L8x-tD-l7N.text" = "total kwh";
+
+/* Class = "UIButton"; normalTitle = "Help >"; ObjectID = "MdR-FJ-pev"; */
+"MdR-FJ-pev.normalTitle" = "ヘルプ";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "O0q-jv-U1V"; */
+"O0q-jv-U1V.text" = "-";
+
+/* Class = "UILabel"; text = "numOfDays"; ObjectID = "O8u-ud-yC7"; */
+"O8u-ud-yC7.text" = "日間";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OiQ-KM-sJ5"; */
+"OiQ-KM-sJ5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Meter"; ObjectID = "P5A-dO-hwT"; */
+"P5A-dO-hwT.text" = "メーター";
+
+/* Class = "UILabel"; text = "total kwh"; ObjectID = "Pvp-rJ-zjA"; */
+"Pvp-rJ-zjA.text" = "total kwh";
+
+/* (No Commment) */
+"Pya-Lc-fVr.text" = "?";
+
+/* Class = "UILabel"; text = "Start Meter Reading"; ObjectID = "QNN-Zh-Awf"; */
+"QNN-Zh-Awf.text" = "開始指示数";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "QfN-3f-7EH"; */
+"QfN-3f-7EH.normalTitle" = "選択";
+
+/* Class = "UILabel"; text = "DateLast"; ObjectID = "RNk-hS-hn0"; */
+"RNk-hS-hn0.text" = "前回の日付";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TUr-Ux-LlW"; */
+"TUr-Ux-LlW.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "0000.0"; ObjectID = "UJu-Sp-WUp"; */
+"UJu-Sp-WUp.placeholder" = "0000.0";
+
+/* Class = "UITextField"; placeholder = "?"; ObjectID = "UoL-2B-ghy"; */
+"UoL-2B-ghy.placeholder" = "?";
+
+/* Class = "UITextField"; placeholder = "0.00"; ObjectID = "W8T-d5-b7x"; */
+"W8T-d5-b7x.placeholder" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "YGk-XU-trv"; */
+"YGk-XU-trv.normalTitle" = "入力";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "Yyg-lo-c2a"; */
+"Yyg-lo-c2a.normalTitle" = "リセット";
+
+/* Class = "UILabel"; text = "Daily Average:"; ObjectID = "Z81-GE-g1X"; */
+"Z81-GE-g1X.text" = "日当平均：";
+
+/* Class = "UITextField"; placeholder = "0000.0"; ObjectID = "Zdi-mw-SwO"; */
+"Zdi-mw-SwO.placeholder" = "0000.0";
+
+/* Class = "UILabel"; text = "Heating"; ObjectID = "bh0-dI-xZb"; */
+"bh0-dI-xZb.text" = "融雪用電力Ｌ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "c4c-WL-Vnn"; */
+"c4c-WL-Vnn.text" = "Title";
+
+/* (No Commment) */
+"cSS-W5-00J.text" = "? A";
+
+/* Class = "UILabel"; text = "単価入力 (Rate)"; ObjectID = "cjg-WW-nKi"; */
+"cjg-WW-nKi.text" = "単価入力";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "eY8-4L-l8g"; */
+"eY8-4L-l8g.text" = "title";
+
+/* Class = "UILabel"; text = "Basic Rate"; ObjectID = "fKC-xb-zqt"; */
+"fKC-xb-zqt.text" = "契約電流";
+
+/* Class = "UILabel"; text = "Start Date"; ObjectID = "fVX-Vs-nZQ"; */
+"fVX-Vs-nZQ.text" = "測定開始日";
+
+/* Class = "UILabel"; text = "Reset"; ObjectID = "gPo-RE-fvh"; */
+"gPo-RE-fvh.text" = "リセット";
+
+/* Class = "UILabel"; text = "円"; ObjectID = "gcP-tC-4Ce"; */
+"gcP-tC-4Ce.text" = "円";
+
+/* Class = "UITextField"; placeholder = "0.00"; ObjectID = "hCm-gG-LU9"; */
+"hCm-gG-LU9.placeholder" = "0.00";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ho7-Xe-rkg"; */
+"ho7-Xe-rkg.text" = "Label";
+
+/* Class = "UILabel"; text = "Start Meter Reading"; ObjectID = "icX-GA-qoW"; */
+"icX-GA-qoW.text" = "開始指示数";
+
+/* Class = "UILabel"; text = "Unit"; ObjectID = "jdh-M3-N60"; */
+"jdh-M3-N60.text" = "契約電力";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "jvy-lt-ygw"; */
+"jvy-lt-ygw.normalTitle" = "入力";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "k3Y-Qh-OAP"; */
+"k3Y-Qh-OAP.normalTitle" = "選択";
+
+/* Class = "UILabel"; text = "Meter"; ObjectID = "ktc-Bs-UFD"; */
+"ktc-Bs-UFD.text" = "検針";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "l5c-5A-hiE"; */
+"l5c-5A-hiE.text" = "-";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "lfF-5D-9E1"; */
+"lfF-5D-9E1.text" = "title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "lpk-7U-baO"; */
+"lpk-7U-baO.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mYy-iQ-kn4"; */
+"mYy-iQ-kn4.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "Usage VC"; ObjectID = "miI-DF-Ucr"; */
+"miI-DF-Ucr.title" = "Usage VC";
+
+/* Class = "UILabel"; text = "kWh"; ObjectID = "ndP-5M-xvu"; */
+"ndP-5M-xvu.text" = "kWh";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "pP5-a7-B2u"; */
+"pP5-a7-B2u.text" = "設定";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "qWE-eS-1KY"; */
+"qWE-eS-1KY.text" = "-";
+
+/* Class = "UILabel"; text = "契約種別 (Contract Category)"; ObjectID = "rOH-83-V45"; */
+"rOH-83-V45.text" = "契約種別";
+
+/* (No Commment) */
+"sbu-ES-mnD.text" = "円";
+
+/* Class = "UILabel"; text = "Today's date"; ObjectID = "sp9-kd-4Qb"; */
+"sp9-kd-4Qb.text" = "今日の日付";
+
+/* Class = "UILabel"; text = "Min Usage Period"; ObjectID = "uDy-rT-2oE"; */
+"uDy-rT-2oE.text" = "最低使用期間以内";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uUd-kH-KPy"; */
+"uUd-kH-KPy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "kWh"; ObjectID = "uYR-NR-d9W"; */
+"uYR-NR-d9W.text" = "kWh";
+
+/* Class = "UILabel"; text = "kW"; ObjectID = "uf6-zP-xSi"; */
+"uf6-zP-xSi.text" = "kW";
+
+/* Class = "UILabel"; text = "Balance Summary"; ObjectID = "wpp-8R-1GK"; */
+"wpp-8R-1GK.text" = "料金速報";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "xII-mF-JGU"; */
+"xII-mF-JGU.normalTitle" = "入力";
+
+/* Class = "UILabel"; text = "¥"; ObjectID = "yc2-Vf-0T5"; */
+"yc2-Vf-0T5.text" = "¥";
+
+/* Class = "UILabel"; text = "燃料費調整単価 (Discount)"; ObjectID = "z58-Fd-Tcq"; */
+"z58-Fd-Tcq.text" = "燃料費調整単価";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "zV5-4F-Pcj"; */
+"zV5-4F-Pcj.normalTitle" = "入力";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "zW4-ZK-0jh"; */
+"zW4-ZK-0jh.text" = "-";
+

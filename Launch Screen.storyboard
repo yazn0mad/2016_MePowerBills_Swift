@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="TsukushiAMaruGothic.ttc">
+            <string>TsukuARdGothic-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="background_blue" translatesAutoresizingMaskIntoConstraints="NO" id="wUc-GB-huX">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" alpha="0.10000000000000001" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="HokkaidoWhite" translatesAutoresizingMaskIntoConstraints="NO" id="xJL-CE-6z7">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="63F-fA-YKN"/>
+                                    <constraint firstAttribute="height" constant="128" id="cBO-Kk-tMB"/>
+                                </constraints>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="63F-fA-YKN"/>
+                                        <exclude reference="cBO-Kk-tMB"/>
+                                    </mask>
+                                </variation>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="© 2016 Yasuhiro Tanaka. All rights reserved." textAlignment="center" lineBreakMode="tailTruncation" minimumScaleFactor="0.5" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="obG-Y5-kRd">
+                                <rect key="frame" x="130" y="542" width="341" height="22"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="22" id="hoy-51-YiU"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="TsukuARdGothic-Regular" family="Tsukushi A Round Gothic" pointSize="17"/>
+                                <color key="textColor" red="0.73333333329999995" green="0.83921568629999999" blue="0.98039215690000003" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="heightClass=regular-widthClass=compact">
+                                    <fontDescription key="fontDescription" name="TsukuARdGothic-Regular" family="Tsukushi A Round Gothic" pointSize="17"/>
+                                </variation>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="xJL-CE-6z7" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="1aa-zo-iaK"/>
+                            <constraint firstAttribute="trailing" secondItem="xJL-CE-6z7" secondAttribute="trailing" id="8sT-bM-TnD"/>
+                            <constraint firstAttribute="trailing" secondItem="wUc-GB-huX" secondAttribute="trailing" id="Dhr-hd-ndL"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="obG-Y5-kRd" secondAttribute="bottom" constant="36" id="H2v-ai-2p5"/>
+                            <constraint firstItem="wUc-GB-huX" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="NnE-79-yag"/>
+                            <constraint firstItem="wUc-GB-huX" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="QVV-MZ-rsl"/>
+                            <constraint firstItem="obG-Y5-kRd" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="kYE-qn-G6N"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="wUc-GB-huX" secondAttribute="bottom" id="mg8-dl-beb"/>
+                            <constraint firstItem="xJL-CE-6z7" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="vsU-RN-LJ0"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="xJL-CE-6z7" secondAttribute="bottom" id="zEL-sN-ZpW"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="HokkaidoWhite" width="750" height="627"/>
+        <image name="background_blue" width="1024" height="1024"/>
+    </resources>
+</document>

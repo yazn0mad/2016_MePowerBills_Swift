@@ -1,0 +1,153 @@
+/* num of days string */
+" Days" = " 日間";
+
+/* must be jpn period */
+")." = ")。";
+
+/* h1 */
+"1. Start Date: " = "１．測定開始日";
+
+/* h2 */
+"2. Contract Categories: " = "２．契約種別";
+
+/* h3 */
+"3. Start Meter Reading: " = "３．開始指示数";
+
+/* h4 */
+"4. Rates: " = "４．単価入力";
+
+/* reset for all reset alert */
+"All Reset" = "リセット";
+
+/* comment for all reset alert */
+"Are you sure you want to erase all data?" = "今までのデータを消去してやり直しますか？";
+
+/* cancel for all reset alert */
+"Cancel" = "キャンセル";
+
+/* meter input alert */
+"Current meter reading must be greater than the last " = "今までに入力された数値よりも大きい数字を入力してください。";
+
+/* daily average label */
+"Daily average: " = "日当平均：";
+
+/* d1 */
+"Disclaimer: " = "免責事項：";
+
+/* b4 */
+"For Discount rate, look up 燃料費調査単価, which varies each month, and enter the amonunt labeled as (当月). For Levy, look up 再エネ発電賦課金単価, which is usually set at 1.58 yen. If you tap on the red question marks, you can look those up online (available only in Japanese)." = "燃料費調査単価の設定は記載されている当月の金額を入力してください。再エネ発電賦課金単価も当月の金額を入力します。もしわからなければ赤いはてなマークをタップすれば、電力会社のウェブサイトから各自確認できます。";
+
+/* permission for using internet */
+"Go online to find out?" = "ウェブで確認しますか？";
+
+/* title for mainVC */
+"Hot Time 22 Long" = "ホットタイム２２ロングの合計";
+
+/* title */
+"How to set up Me Power Bills" = "アプリの設定方法";
+
+/* ignore for starting over */
+"Ignore" = "無視する";
+
+/* it's been over 30 days alert */
+"It's been over 30 days!" = "検針開始から３０日が過ぎました！";
+
+/* date for last reading */
+"Last Date: " = "前回の日付：";
+
+/* meterVC last label */
+"Last: " = "前回：";
+
+/* title for mainVC */
+"Lighting B" = "従量電灯Ｂの合計";
+
+/* b1 */
+"Look up the date for the latest meter reading on your bill, labeled as 今回検針日, and set the date for the Start Date." = "検診結果のお知らせ、もしくは電気使用量のお知らせに記載されている今回検針日をアプリの測定開始日に選択してください。";
+
+/* b3 */
+"Look up the last meter reading on your bill, labeled as 今回指示数, and enter the value in Detail Setting." = "検診結果のお知らせ、もしくは電気使用量のお知らせに記載されている今回指示数をアプリの詳細設定にある開始指示数に設定してください。";
+
+/* looking for levy */
+"Looking for 再エネ発電賦課金単価" = "再エネ発電賦課金単価を確認中";
+
+/* looking for discount */
+"Looking for 燃料費調整単価" = "燃料費調整単価を確認中";
+
+/* no to go online */
+"No" = "いいえ";
+
+/* Oops! alert */
+"Oops!" = "あっ！";
+
+/* d2 */
+"Please be aware this app is not associated with your power company. Contact the support at yazApps.com for questions and support. If all the items in the Setting and the Detail Setting are entered or selected correctly, the balance calculated by this app will match the amount calculated by the simulater provided by your power company on their web site. However, the actual amount billed to you may not be exactly the same." = "このアプリは電力提供会社とは一切関係ありません。質問およびサポートに関するお問い合わせはアプリ制作元の yazApps.com までお願いします。このアプリの設定および詳細設定の項目の選択や入力に間違いがなければ、換算された合計金額が電力会社が提供している料金シュミレーターの試算金額と同じになります。ただし、実際に請求される金額とは異なる場合がありますのでご注意ください。";
+
+/* enter meter alert */
+"Please enter correct meter reading." = "正確なメーターの指示数を入力してください。";
+
+/* enter digits for start meter */
+"Please enter the digits." = "数字を入力してください。";
+
+/* enter discount alert */
+"Please enter the discount rate." = "燃料費調整単価を入力してください";
+
+/* enter levy alert */
+"Please enter the levy amount." = "再エネ発電賦課金単価を入力してください。";
+
+/* (No Commment) */
+"Please enter the meter reading." = "メーターの指示数を入力してください。";
+
+/* check alert */
+"Please enter the missing value(s)." = "入力項目のチェックをしてください。";
+
+/* start date alert */
+"Please enter the start date." = "検針の開始日を選択してください。";
+
+/* check input */
+"Please fill out the blanks and tap Enter for each entry." = "数値の入力を確認後、各項目の「入力」をもう一度タップしてください。";
+
+/* go to the setting alert */
+"Please go to the setting and choose your contract type." = "左下の設定ボタンをタップして、契約種別を選択してください。";
+
+/* subTitle */
+"Please have your electricity bill ready for setting up your app." = "検針結果のお知らせ、もしくは電気使用量のお知らせを手元にご用意ください。";
+
+/* tap meter btn */
+"Please tap METER button." = "検針ボタンをタップ";
+
+/* turn on switch alert */
+"Please turn on at least one contract plan." = "最低ひとつの契約種別を選択してオンにしてください。";
+
+/* reset all setting alert */
+"Reset all?" = "リセットしますか？";
+
+/* reset and start over question */
+"Reset and start over?" = "リセットしてやり直しますか？";
+
+/* date for start reading */
+"Start Date: " = "開始日：";
+
+/* startMtr value missing */
+"Start meter value is missing. Please go back to the Detail Setting." = "詳細設定に戻って、開始指示数を入力してください。";
+
+/* meterVC start lablel */
+"Start: " = "開始：";
+
+/* date for today */
+"Today: " = "今日：";
+
+/* what's discount title */
+"What's discount (燃料費調整単価)?" = "え？今月の燃料費調整単価っていくら？";
+
+/* what's levy title */
+"What's levy (再エネ発電賦課金単価)?" = "え？再エネ発電賦課金単価っていくら？";
+
+/* yes for online */
+"Yes" = "はい";
+
+/* b2 */
+"You must activate one or both of the contracts available in the Contract Categories." = "契約種別のひとつ、もしくは両方を選択し、スイッチをオンにして詳細設定をしてください。";
+
+/* kwh unknown */
+"kWh: Unknown" = "kWh数が不明です";
+
